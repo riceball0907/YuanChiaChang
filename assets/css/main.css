@@ -3286,7 +3286,7 @@
 			margin: 0;
 			padding: 0;
 			list-style: none;
-			font-size: 0.9em;
+
 		}
 
 			#nav ul li {
@@ -3312,6 +3312,7 @@
 					border: 0;
 					border-radius: 8px;
 					box-shadow: inset 0 0 0 1px transparent;
+					font-size: 0.9em;
 				}
 
 					#nav ul li a:hover {
